@@ -1,0 +1,11 @@
+Requirements:
+	Windows System
+	copy of blink1-tool
+	Active web connection
+	Node.js
+	NPM
+	Blink(1)
+
+Instructions:
+	npm install node-static
+	npm install socket.io
